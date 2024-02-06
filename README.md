@@ -1,4 +1,4 @@
-# Sentence Pair Classification
+# Alzheimer's MRI Classification
 
 ## Short description
 
