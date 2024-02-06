@@ -2,9 +2,9 @@
 
 ## Short description
 
-The main task involves the usupervised classification of MRI images from patients diagnosed with Alzheimer's. The data set can be found at the following address: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images.
+The main task involves the unsupervised classification of MRI images from patients diagnosed with Alzheimer's. The data set can be found at the following address: https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images.
 
-The code was written in Python and the following data preprocessing techiques were used:
+The code was written in Python and the following data preprocessing techniques were used:
 
 - Dimensionality reduction using Principal Component Analysis (PCA).
 - Passing data trough a ResNet18 convolutional neural network that was built from scratch using TensorFlow.
